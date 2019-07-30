@@ -1,2 +1,2 @@
 # example-app
-A simple shiny app example.
+A simple shiny dashboard app example.
